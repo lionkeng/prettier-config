@@ -1,0 +1,9 @@
+{
+  "name": "@lionkeng/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for the masses",
+  "main": "index.json",
+  "repository": "git@github.com:lionkeng/prettier-config.git",
+  "author": "Keng Lim <lionkeng@gmail.com>",
+  "license": "MIT"
+}
